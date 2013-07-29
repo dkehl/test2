@@ -5,3 +5,4 @@
 //Third ec modification
 //EC modification 4
 //EXT mod 4
+//Task 1 implementation part 1
