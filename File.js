@@ -6,3 +6,4 @@
 //EC modification 4
 //EXT mod 4
 //Task 3 start
+//Task 3 input
