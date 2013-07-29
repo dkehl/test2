@@ -7,3 +7,4 @@
 //EXT mod 4
 //EXT master mod
 //Task 5 implementation
+//Task 5 part 2
